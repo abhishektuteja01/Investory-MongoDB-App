@@ -1,0 +1,85 @@
+  { "stock_symbol": "AAPL", "exchange_name": "NASDAQ", "stock_name": "Apple Inc.", "sector": "Technology", "market_share_percentage": 10, "face_value": 150 }
+  { "stock_symbol": "GOOGL", "exchange_name": "NASDAQ", "stock_name": "Alphabet Inc.", "sector": "Technology", "market_share_percentage": 8, "face_value": 140 }
+  { "stock_symbol": "MSFT", "exchange_name": "NASDAQ", "stock_name": "Microsoft Corp.", "sector": "Technology", "market_share_percentage": 12, "face_value": 180 }
+  { "stock_symbol": "AMZN", "exchange_name": "NASDAQ", "stock_name": "Amazon.com Inc.", "sector": "Consumer Discretionary", "market_share_percentage": 9, "face_value": 170 }
+  { "stock_symbol": "TSLA", "exchange_name": "NASDAQ", "stock_name": "Tesla Inc.", "sector": "Automotive", "market_share_percentage": 7, "face_value": 250 }
+  { "stock_symbol": "FB", "exchange_name": "NASDAQ", "stock_name": "Meta Platforms Inc.", "sector": "Technology", "market_share_percentage": 5, "face_value": 160 }
+  { "stock_symbol": "BABA", "exchange_name": "NYSE", "stock_name": "Alibaba Group", "sector": "Consumer Discretionary", "market_share_percentage": 4, "face_value": 120 }
+  { "stock_symbol": "NVDA", "exchange_name": "NASDAQ", "stock_name": "NVIDIA Corp.", "sector": "Technology", "market_share_percentage": 6, "face_value": 190 }
+  { "stock_symbol": "JPM", "exchange_name": "NYSE", "stock_name": "JPMorgan Chase & Co.", "sector": "Financials", "market_share_percentage": 8, "face_value": 100 }
+  { "stock_symbol": "V", "exchange_name": "NYSE", "stock_name": "Visa Inc.", "sector": "Financials", "market_share_percentage": 7, "face_value": 120 }
+  { "stock_symbol": "WMT", "exchange_name": "NYSE", "stock_name": "Walmart Inc.", "sector": "Consumer Staples", "market_share_percentage": 10, "face_value": 130 }
+  { "stock_symbol": "PG", "exchange_name": "NYSE", "stock_name": "Procter & Gamble", "sector": "Consumer Staples", "market_share_percentage": 6, "face_value": 110 }
+  { "stock_symbol": "UNH", "exchange_name": "NYSE", "stock_name": "UnitedHealth Group", "sector": "Healthcare", "market_share_percentage": 9, "face_value": 210 }
+  { "stock_symbol": "HD", "exchange_name": "NYSE", "stock_name": "Home Depot Inc.", "sector": "Consumer Discretionary", "market_share_percentage": 5, "face_value": 140 }
+  { "stock_symbol": "DIS", "exchange_name": "NYSE", "stock_name": "Walt Disney Co.", "sector": "Communication Services", "market_share_percentage": 8, "face_value": 150 }
+  { "stock_symbol": "MA", "exchange_name": "NYSE", "stock_name": "Mastercard Inc.", "sector": "Financials", "market_share_percentage": 7, "face_value": 125 }
+  { "stock_symbol": "NFLX", "exchange_name": "NASDAQ", "stock_name": "Netflix Inc.", "sector": "Communication Services", "market_share_percentage": 5, "face_value": 110 }
+  { "stock_symbol": "PFE", "exchange_name": "NYSE", "stock_name": "Pfizer Inc.", "sector": "Healthcare", "market_share_percentage": 6, "face_value": 75 }
+  { "stock_symbol": "KO", "exchange_name": "NYSE", "stock_name": "Coca-Cola Co.", "sector": "Consumer Staples", "market_share_percentage": 9, "face_value": 60 }
+  { "stock_symbol": "PEP", "exchange_name": "NASDAQ", "stock_name": "PepsiCo Inc.", "sector": "Consumer Staples", "market_share_percentage": 8, "face_value": 55 }
+  { "stock_symbol": "NKE", "exchange_name": "NYSE", "stock_name": "Nike Inc.", "sector": "Consumer Discretionary", "market_share_percentage": 6, "face_value": 100 }
+  { "stock_symbol": "XOM", "exchange_name": "NYSE", "stock_name": "Exxon Mobil Corp.", "sector": "Energy", "market_share_percentage": 12, "face_value": 150 }
+  { "stock_symbol": "CSCO", "exchange_name": "NASDAQ", "stock_name": "Cisco Systems", "sector": "Technology", "market_share_percentage": 7, "face_value": 80 }
+  { "stock_symbol": "ORCL", "exchange_name": "NYSE", "stock_name": "Oracle Corp.", "sector": "Technology", "market_share_percentage": 8, "face_value": 85 }
+  { "stock_symbol": "INTC", "exchange_name": "NASDAQ", "stock_name": "Intel Corp.", "sector": "Technology", "market_share_percentage": 5, "face_value": 70 }
+  { "stock_symbol": "CVX", "exchange_name": "NYSE", "stock_name": "Chevron Corp.", "sector": "Energy", "market_share_percentage": 10, "face_value": 120 }
+  { "stock_symbol": "LLY", "exchange_name": "NYSE", "stock_name": "Eli Lilly and Co.", "sector": "Healthcare", "market_share_percentage": 5, "face_value": 175 }
+  { "stock_symbol": "MCD", "exchange_name": "NYSE", "stock_name": "McDonald's Corp.", "sector": "Consumer Discretionary", "market_share_percentage": 4, "face_value": 90 }
+  { "stock_symbol": "ADBE", "exchange_name": "NASDAQ", "stock_name": "Adobe Inc.", "sector": "Technology", "market_share_percentage": 6, "face_value": 120 }
+  { "stock_symbol": "ABT", "exchange_name": "NYSE", "stock_name": "Abbott Laboratories", "sector": "Healthcare", "market_share_percentage": 5, "face_value": 60 }
+  { "stock_symbol": "IBM", "exchange_name": "NYSE", "stock_name": "IBM Corp.", "sector": "Technology", "market_share_percentage": 6, "face_value": 110 }
+  { "stock_symbol": "MDT", "exchange_name": "NYSE", "stock_name": "Medtronic Plc.", "sector": "Healthcare", "market_share_percentage": 5, "face_value": 85 }
+  { "stock_symbol": "COST", "exchange_name": "NASDAQ", "stock_name": "Costco Wholesale Corp.", "sector": "Consumer Staples", "market_share_percentage": 7, "face_value": 110 }
+  { "stock_symbol": "T", "exchange_name": "NYSE", "stock_name": "AT&T Inc.", "sector": "Communication Services", "market_share_percentage": 8, "face_value": 30 }
+  { "stock_symbol": "BA", "exchange_name": "NYSE", "stock_name": "Boeing Co.", "sector": "Industrials", "market_share_percentage": 9, "face_value": 120 }
+  { "stock_symbol": "SBUX", "exchange_name": "NASDAQ", "stock_name": "Starbucks Corp.", "sector": "Consumer Discretionary", "market_share_percentage": 4, "face_value": 80 }
+  { "stock_symbol": "MRK", "exchange_name": "NYSE", "stock_name": "Merck & Co. Inc.", "sector": "Healthcare", "market_share_percentage": 6, "face_value": 50 }
+  { "stock_symbol": "UPS", "exchange_name": "NYSE", "stock_name": "United Parcel Service", "sector": "Industrials", "market_share_percentage": 8, "face_value": 90 }
+  { "stock_symbol": "HON", "exchange_name": "NYSE", "stock_name": "Honeywell International", "sector": "Industrials", "market_share_percentage": 5, "face_value": 100 }
+  { "stock_symbol": "GM", "exchange_name": "NYSE", "stock_name": "General Motors Co.", "sector": "Automotive", "market_share_percentage": 6, "face_value": 40 }
+  { "stock_symbol": "PYPL", "exchange_name": "NASDAQ", "stock_name": "PayPal Holdings", "sector": "Financials", "market_share_percentage": 4, "face_value": 90 }
+  { "stock_symbol": "SNE", "exchange_name": "NYSE", "stock_name": "Sony Corp.", "sector": "Technology", "market_share_percentage": 3, "face_value": 110 }
+  { "stock_symbol": "GE", "exchange_name": "NYSE", "stock_name": "General Electric Co.", "sector": "Industrials", "market_share_percentage": 5, "face_value": 90 }
+  { "stock_symbol": "F", "exchange_name": "NYSE", "stock_name": "Ford Motor Co.", "sector": "Automotive", "market_share_percentage": 7, "face_value": 20 }
+  { "stock_symbol": "ABBV", "exchange_name": "NYSE", "stock_name": "AbbVie Inc.", "sector": "Healthcare", "market_share_percentage": 6, "face_value": 80 }
+  { "stock_symbol": "BMY", "exchange_name": "NYSE", "stock_name": "Bristol-Myers Squibb", "sector": "Healthcare", "market_share_percentage": 7, "face_value": 75 }
+  { "stock_symbol": "CAT", "exchange_name": "NYSE", "stock_name": "Caterpillar Inc.", "sector": "Industrials", "market_share_percentage": 5, "face_value": 150 }
+  { "stock_symbol": "DHR", "exchange_name": "NYSE", "stock_name": "Danaher Corp.", "sector": "Healthcare", "market_share_percentage": 4, "face_value": 115 }
+  { "stock_symbol": "MO", "exchange_name": "NYSE", "stock_name": "Altria Group Inc.", "sector": "Consumer Staples", "market_share_percentage": 3, "face_value": 45 }
+  { "stock_symbol": "PM", "exchange_name": "NYSE", "stock_name": "Philip Morris Intl.", "sector": "Consumer Staples", "market_share_percentage": 4, "face_value": 50 }
+  { "stock_symbol": "LMT", "exchange_name": "NYSE", "stock_name": "Lockheed Martin Corp.", "sector": "Industrials", "market_share_percentage": 6, "face_value": 180 }
+  { "stock_symbol": "RTX", "exchange_name": "NYSE", "stock_name": "Raytheon Technologies", "sector": "Industrials", "market_share_percentage": 5, "face_value": 120 }
+  { "stock_symbol": "BK", "exchange_name": "NYSE", "stock_name": "Bank of New York Mellon", "sector": "Financials", "market_share_percentage": 3, "face_value": 45 }
+  { "stock_symbol": "SCHW", "exchange_name": "NYSE", "stock_name": "Charles Schwab Corp.", "sector": "Financials", "market_share_percentage": 4, "face_value": 60 }
+  { "stock_symbol": "MRNA", "exchange_name": "NASDAQ", "stock_name": "Moderna Inc.", "sector": "Healthcare", "market_share_percentage": 2, "face_value": 160 }
+  { "stock_symbol": "GS", "exchange_name": "NYSE", "stock_name": "Goldman Sachs Group", "sector": "Financials", "market_share_percentage": 4, "face_value": 130 }
+  { "stock_symbol": "TGT", "exchange_name": "NYSE", "stock_name": "Target Corp.", "sector": "Consumer Discretionary", "market_share_percentage": 5, "face_value": 80 }
+  { "stock_symbol": "AMD", "exchange_name": "NASDAQ", "stock_name": "Advanced Micro Devices", "sector": "Technology", "market_share_percentage": 6, "face_value": 70 }
+  { "stock_symbol": "DE", "exchange_name": "NYSE", "stock_name": "Deere & Co.", "sector": "Industrials", "market_share_percentage": 5, "face_value": 130 }
+  { "stock_symbol": "C", "exchange_name": "NYSE", "stock_name": "Citigroup Inc.", "sector": "Financials", "market_share_percentage": 7, "face_value": 60 }
+  { "stock_symbol": "LRCX", "exchange_name": "NASDAQ", "stock_name": "Lam Research Corp.", "sector": "Technology", "market_share_percentage": 3, "face_value": 150 }
+  { "stock_symbol": "IBM", "exchange_name": "NYSE", "stock_name": "IBM Corp.", "sector": "Technology", "market_share_percentage": 6, "face_value": 110 }
+  { "stock_symbol": "SO", "exchange_name": "NYSE", "stock_name": "Southern Co.", "sector": "Utilities", "market_share_percentage": 4, "face_value": 70 }
+  { "stock_symbol": "DUK", "exchange_name": "NYSE", "stock_name": "Duke Energy Corp.", "sector": "Utilities", "market_share_percentage": 5, "face_value": 60 }
+  { "stock_symbol": "AEP", "exchange_name": "NASDAQ", "stock_name": "American Electric Power", "sector": "Utilities", "market_share_percentage": 3, "face_value": 50 }
+  { "stock_symbol": "SPGI", "exchange_name": "NYSE", "stock_name": "S&P Global Inc.", "sector": "Financials", "market_share_percentage": 5, "face_value": 115 }
+  { "stock_symbol": "AVGO", "exchange_name": "NASDAQ", "stock_name": "Broadcom Inc.", "sector": "Technology", "market_share_percentage": 6, "face_value": 180 }
+  { "stock_symbol": "FDX", "exchange_name": "NYSE", "stock_name": "FedEx Corp.", "sector": "Industrials", "market_share_percentage": 4, "face_value": 120 }
+  { "stock_symbol": "BAX", "exchange_name": "NYSE", "stock_name": "Baxter Intl. Inc.", "sector": "Healthcare", "market_share_percentage": 2, "face_value": 65 }
+  { "stock_symbol": "MMM", "exchange_name": "NYSE", "stock_name": "3M Co.", "sector": "Industrials", "market_share_percentage": 5, "face_value": 75 }
+  { "stock_symbol": "SHW", "exchange_name": "NYSE", "stock_name": "Sherwin-Williams Co.", "sector": "Materials", "market_share_percentage": 4, "face_value": 80 }
+  { "stock_symbol": "D", "exchange_name": "NYSE", "stock_name": "Dominion Energy", "sector": "Utilities", "market_share_percentage": 3, "face_value": 45 }
+  { "stock_symbol": "NOC", "exchange_name": "NYSE", "stock_name": "Northrop Grumman", "sector": "Industrials", "market_share_percentage": 5, "face_value": 140 }
+  { "stock_symbol": "APD", "exchange_name": "NYSE", "stock_name": "Air Products & Chemicals", "sector": "Materials", "market_share_percentage": 6, "face_value": 100 }
+  { "stock_symbol": "ITW", "exchange_name": "NYSE", "stock_name": "Illinois Tool Works", "sector": "Industrials", "market_share_percentage": 4, "face_value": 75 }
+  { "stock_symbol": "MET", "exchange_name": "NYSE", "stock_name": "MetLife Inc.", "sector": "Financials", "market_share_percentage": 3, "face_value": 55 }
+  { "stock_symbol": "MDLZ", "exchange_name": "NASDAQ", "stock_name": "Mondelez Intl.", "sector": "Consumer Staples", "market_share_percentage": 5, "face_value": 60 }
+  { "stock_symbol": "KHC", "exchange_name": "NASDAQ", "stock_name": "Kraft Heinz Co.", "sector": "Consumer Staples", "market_share_percentage": 4, "face_value": 35 }
+  { "stock_symbol": "NSC", "exchange_name": "NYSE", "stock_name": "Norfolk Southern", "sector": "Industrials", "market_share_percentage": 3, "face_value": 125 }
+  { "stock_symbol": "USB", "exchange_name": "NYSE", "stock_name": "US Bancorp", "sector": "Financials", "market_share_percentage": 4, "face_value": 65 }
+  { "stock_symbol": "HLT", "exchange_name": "NYSE", "stock_name": "Hilton Worldwide", "sector": "Consumer Discretionary", "market_share_percentage": 3, "face_value": 70 }
+  { "stock_symbol": "TSN", "exchange_name": "NYSE", "stock_name": "Tyson Foods Inc.", "sector": "Consumer Staples", "market_share_percentage": 2, "face_value": 40 }
+  { "stock_symbol": "SYK", "exchange_name": "NYSE", "stock_name": "Stryker Corp.", "sector": "Healthcare", "market_share_percentage": 3, "face_value": 110 }
+  { "stock_symbol": "CMCSA", "exchange_name": "NASDAQ", "stock_name": "Comcast Corp.", "sector": "Communication Services", "market_share_percentage": 4, "face_value": 55 }
+  { "stock_symbol": "TROW", "exchange_name": "NASDAQ", "stock_name": "T. Rowe Price Group", "sector": "Financials", "market_share_percentage": 3, "face_value": 95 }
