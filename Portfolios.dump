@@ -1,0 +1,22 @@
+
+  { "portfolio_id": 1, "trader_id": 1, "transaction_id": [1, 3, 36] }
+  { "portfolio_id": 2, "trader_id": 2, "transaction_id": [2, 14, 35, 45] }
+  { "portfolio_id": 3, "trader_id": 3, "transaction_id": [4, 17, 34] }
+  { "portfolio_id": 4, "trader_id": 4, "transaction_id": [5, 11, 21, 26] }
+  { "portfolio_id": 5, "trader_id": 5, "transaction_id": [6, 7, 13] }
+  { "portfolio_id": 6, "trader_id": 6, "transaction_id": [8, 9, 25, 31, 48] }
+  { "portfolio_id": 7, "trader_id": 7, "transaction_id": [10] }
+  { "portfolio_id": 8, "trader_id": 8, "transaction_id": [12, 42] }
+  { "portfolio_id": 9, "trader_id": 9, "transaction_id": [15, 22, 39] }
+  { "portfolio_id": 10, "trader_id": 10, "transaction_id": [16, 33, 47] }
+  { "portfolio_id": 11, "trader_id": 11, "transaction_id": [18] }
+  { "portfolio_id": 12, "trader_id": 12, "transaction_id": [19, 29] }
+  { "portfolio_id": 13, "trader_id": 13, "transaction_id": [20, 38] }
+  { "portfolio_id": 14, "trader_id": 14, "transaction_id": [23] }
+  { "portfolio_id": 15, "trader_id": 15, "transaction_id": [24, 41] }
+  { "portfolio_id": 16, "trader_id": 16, "transaction_id": [27, 43] }
+  { "portfolio_id": 17, "trader_id": 17, "transaction_id": [28, 44] }
+  { "portfolio_id": 18, "trader_id": 18, "transaction_id": [30, 46, 49] }
+  { "portfolio_id": 19, "trader_id": 19, "transaction_id": [32, 40, 50] }
+  { "portfolio_id": 20, "trader_id": 20, "transaction_id": [37] }
+

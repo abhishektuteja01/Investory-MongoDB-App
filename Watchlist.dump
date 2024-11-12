@@ -1,0 +1,120 @@
+{
+        "watchlist_id": 1,
+        "watchlist_name": "Alice's Technology Watchlist",
+        "trader_id": 1,
+        "stock_symbol": ["AAPL", "MSFT", "NVDA"]
+    }
+    {
+        "watchlist_id": 2,
+        "watchlist_name": "Bob's Growth Watchlist",
+        "trader_id": 2,
+        "stock_symbol": ["GOOGL", "TSLA", "NFLX"]
+    }
+    {
+        "watchlist_id": 3,
+        "watchlist_name": "Carol's Dividend Watchlist",
+        "trader_id": 3,
+        "stock_symbol": ["PEP", "KO", "JNJ"]
+    }
+    {
+        "watchlist_id": 4,
+        "watchlist_name": "David's Blue-Chip Watchlist",
+        "trader_id": 4,
+        "stock_symbol": ["IBM", "XOM", "PG"]
+    }
+    {
+        "watchlist_id": 5,
+        "watchlist_name": "Eve's Healthcare Watchlist",
+        "trader_id": 5,
+        "stock_symbol": ["ABT", "PFE", "LLY"]
+    }
+    {
+        "watchlist_id": 6,
+        "watchlist_name": "Frank's Consumer Watchlist",
+        "trader_id": 6,
+        "stock_symbol": ["WMT", "HD", "TGT"]
+    }
+    {
+        "watchlist_id": 7,
+        "watchlist_name": "Grace's Financial Watchlist",
+        "trader_id": 7,
+        "stock_symbol": ["JPM", "GS", "BAC"]
+    }
+    {
+        "watchlist_id": 8,
+        "watchlist_name": "Hank's Industrial Watchlist",
+        "trader_id": 8,
+        "stock_symbol": ["CAT", "UPS", "MMM"]
+    }
+    {
+        "watchlist_id": 9,
+        "watchlist_name": "Ivy's Technology Watchlist",
+        "trader_id": 9,
+        "stock_symbol": ["ORCL", "CSCO", "ADBE"]
+    }
+    {
+        "watchlist_id": 10,
+        "watchlist_name": "Jack's Entertainment Watchlist",
+        "trader_id": 10,
+        "stock_symbol": ["DIS", "NFLX", "CMCSA"]
+    }
+    {
+        "watchlist_id": 11,
+        "watchlist_name": "Kara's Retail Watchlist",
+        "trader_id": 11,
+        "stock_symbol": ["AMZN", "COST", "TGT"]
+    }
+    {
+        "watchlist_id": 12,
+        "watchlist_name": "Leo's Energy Watchlist",
+        "trader_id": 12,
+        "stock_symbol": ["CVX", "XOM", "DUK"]
+    }
+    {
+        "watchlist_id": 13,
+        "watchlist_name": "Mia's Health & Wellness Watchlist",
+        "trader_id": 13,
+        "stock_symbol": ["JNJ", "MRK", "ABBV"]
+    }
+    {
+        "watchlist_id": 14,
+        "watchlist_name": "Nick's Aerospace Watchlist",
+        "trader_id": 14,
+        "stock_symbol": ["BA", "LMT", "NOC"]
+    }
+    {
+        "watchlist_id": 15,
+        "watchlist_name": "Olivia's Finance Watchlist",
+        "trader_id": 15,
+        "stock_symbol": ["MA", "V", "SCHW"]
+    }
+    {
+        "watchlist_id": 16,
+        "watchlist_name": "Paul's Food & Beverage Watchlist",
+        "trader_id": 16,
+        "stock_symbol": ["KO", "PEP", "MCD"]
+    }
+    {
+        "watchlist_id": 17,
+        "watchlist_name": "Quinn's Tech Leaders Watchlist",
+        "trader_id": 17,
+        "stock_symbol": ["AAPL", "GOOGL", "FB"]
+    }
+    {
+        "watchlist_id": 18,
+        "watchlist_name": "Rachel's Transportation Watchlist",
+        "trader_id": 18,
+        "stock_symbol": ["FDX", "UPS", "NSC"]
+    }
+    {
+        "watchlist_id": 19,
+        "watchlist_name": "Sam's Media Watchlist",
+        "trader_id": 19,
+        "stock_symbol": ["DIS", "NFLX", "FB"]
+    }
+    {
+        "watchlist_id": 20,
+        "watchlist_name": "Tina's Luxury Brands Watchlist",
+        "trader_id": 20,
+        "stock_symbol": ["HLT", "SBUX", "TROW"]
+    }
