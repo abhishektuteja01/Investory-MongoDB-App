@@ -53,19 +53,31 @@ Includes a SQL diagram of various collections in the model.
 
 * Go inside the databases folder and import the files using mongoimport. I am If you already have port 27017 used, use 37017. If using terminal, go to the repo folder, and input the below commands one at a time.
 
-```mongoimport -h localhost:37017 -d InvestoryData -c Trader  --file Trader.dump ```
+```
+mongoimport -h localhost:37017 -d InvestoryData -c Trader  --file Trader.dump 
+```
 
-```mongoimport -h localhost:37017 -d InvestoryData -c Stocks  --file stocks.dump ```
+```
+mongoimport -h localhost:37017 -d InvestoryData -c Stocks  --file stocks.dump 
+```
 
-```mongoimport -h localhost:37017 -d InvestoryData -c Transactions  --file Transactions.dump ```
+```
+mongoimport -h localhost:37017 -d InvestoryData -c Transactions  --file Transactions.dump 
+```
 
-```mongoimport -h localhost:37017 -d InvestoryData -c Watchlist  --file Watchlist.dump ```
+```
+mongoimport -h localhost:37017 -d InvestoryData -c Watchlist  --file Watchlist.dump 
+```
 
-```mongoimport -h localhost:37017 -d InvestoryData -c Portfolios  --file Portfolios.dump ```
+```
+mongoimport -h localhost:37017 -d InvestoryData -c Portfolios  --file Portfolios.dump
+```
 
 ## Queries to analyse few things making sure the data is working fine.
 
 ### 1. Profit and Loss of a single trader_id, 1 taken for this example.
-```node Finding_profit_or_loss.js ```
+```
+node Finding_profit_or_loss.js
+```
 
 
