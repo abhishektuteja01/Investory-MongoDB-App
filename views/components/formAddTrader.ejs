@@ -1,0 +1,24 @@
+<h3>Add Trader</h3>
+<form
+  action="<%= '/transactions/' + tra.transaction_id + '/addTrader'  %>"
+  method="POST"
+>
+  <div>
+    <input
+      hidden
+      type="text"
+      class="form-control"
+      name="transaction_id"
+      value="<%= tra.transaction_id %>"
+    />
+  </div>
+
+  <div>
+    <label class="form-label">
+      Trader ID:
+      <input type="text" class="form-control" name="trader_id" />
+    </label>
+  </div>
+
+  <button type="submit" class="btn btn-outline-primary">Add Trader</button>
+</form>

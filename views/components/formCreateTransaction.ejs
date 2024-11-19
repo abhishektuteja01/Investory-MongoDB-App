@@ -1,0 +1,47 @@
+<h2>Create a Transaction</h2>
+<form action="/createTransaction" method="POST">
+  <div>
+    <label class="form-label">
+      Stock Symbol:
+      <input class="form-control" type="text" name="stock_symbol" />
+    </label>
+  </div>
+
+  <div>
+    <label class="form-label">
+      Timestamp:
+      <input class="form-control" type="text" name="timestamp" />
+    </label>
+  </div>
+
+  <div>
+    <label class="form-label">
+      Quantity:
+      <input class="form-control" type="text" name="quantity" />
+    </label>
+  </div>
+
+  <div>
+    <label class="form-label">
+      Type of Trade:
+      <input class="form-control" type="text" name="type_of_trade" />
+    </label>
+  </div>
+
+  <div>
+    <label class="form-label">
+      Price:
+      <input class="form-control" type="text" name="price" />
+    </label>
+  </div>
+
+  <div>
+    <label class="form-label">
+      Trader_id:
+      <input class="form-control" type="date" name="trader_id" />
+    </label>
+  </div>
+
+
+  <button class="btn btn-primary" type="submit">Create</button>
+</form>

@@ -1,0 +1,75 @@
+<h2>Transaction</h2>
+
+<form
+  action=" <%= '/transactions/' + tra.transaction_id + '/edit' %>"
+  method="POST"
+>
+  <div>
+    <label class="form-label">
+      Transaction ID:
+      <input
+        class="form-control"
+        type="text"
+        name="transaction_id"
+        value="<%= tra.transaction_id %>"
+        disabled
+      />
+    </label>
+  </div>
+  <div>
+    <label class="form-label">
+      Stock Symbol:
+      <input 
+        class="form-control" 
+        type="text" name="stock_symbol"
+        value="<%= tra.stock_symbol %>" />
+    </label>
+  </div>
+
+  <div>
+    <label class="form-label">
+      Timestamp:
+      <input class="form-control" type="text" name="timestamp"
+      value="<%= tra.timestamp %>" />
+    </label>
+  </div>
+
+  <div>
+    <label class="form-label">
+      Quantity:
+      <input class="form-control" type="text" name="quantity"
+      value="<%= tra.quantity %>" />
+    </label>
+  </div>
+
+  <div>
+    <label class="form-label">
+      Type of Trade:
+      <input class="form-control" type="text" name="type_of_trade" 
+      value="<%= tra.type_of_trade %>"/>
+    </label>
+  </div>
+
+  <div>
+    <label class="form-label">
+      Price:
+      <input class="form-control" type="text" name="price" 
+      value="<%= tra.price %>"/>
+    </label>
+  </div>
+
+  <div>
+    <label class="form-label">
+      Trader_id:
+      <input class="form-control" type="text" name="trader_id" 
+      value="<%= tra.trader_id %>"/>
+    </label>
+  </div>
+
+  <button type="submit" class="btn btn-primary">Edit</button>
+  <a
+    class="btn btn-danger"
+    href="<%= '/transactions/' + tra.transaction_id + '/delete' %>"
+    >Delete</a
+  >
+</form>

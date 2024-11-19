@@ -1,0 +1,12 @@
+<h2>Traders:</h2>
+<ul>
+  <% for (let a of traders) { %>
+  <li>
+    <a href="<%= '/traders/' + a.trader_id + '/edit'  %>"><%= a.name + " (" + a.state + ")" %></a>
+    <a href="<%= '/transactions/' + tra.transaction_id + '/removeTrader/' + a.trader_id   %>">❌</a>
+  </li>
+  <% } %>
+</ul>
+
+
+<%- include("../components/formAddTrader.ejs", { tra }) %>
