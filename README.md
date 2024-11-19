@@ -66,6 +66,6 @@ Includes a SQL diagram of various collections in the model.
 ## Queries to analyse few things making sure the data is working fine.
 
 ### 1. Profit and Loss of a single trader_id, 1 taken for this example.
-    ``` node Finding_profit_or_loss.js ```
+```node Finding_profit_or_loss.js ```
 
 
